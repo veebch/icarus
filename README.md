@@ -2,4 +2,4 @@
 
 # Icarus
 
-This is the instruction kit for making the simplest of LED lights. 
+This is the instruction kit for making the simplest of LED lights. It all centres around a CREE XLamp® CMU2236 LED. An inexpensive and bright (~5.5Klm) LED.
