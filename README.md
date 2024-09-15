@@ -2,7 +2,7 @@
 
 # Icarus
 
-This is the instruction kit for making the simplest of LED lights. It all centres around a CREE XLamp® CMU2236 LED. An inexpensive and bright (~5.5Klm) LED. It is powered by USB-c and the big heatsink means that this (for now) is a silent fanless light.
+This is the instruction kit for making the simplest of LED lights. It all centres around a CREE XLamp® CMU2236 LED. An inexpensive and bright (~5.5Klm) LED. It is powered by USB-c and the big heatsink means that this (for now) is a silent fanless light. There's lots of room for improvement (tripod mount, active cooling, better enclosure) but we're sharing this because we find it handy for taking photos/video (examples below).
 
 ## Assembly
 
