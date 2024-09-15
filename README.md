@@ -9,5 +9,6 @@ This is the instruction kit for making the simplest of LED lights. It all centre
 - Attach LED to the centre of the heatsink using epoxy and thermal paste.
 - Place PD trigger, switch and CC power supply into case
 - Solder wires as shown in the photo
+- Mount the cover over the LED (we used double sided tape)
 
 ## Results
