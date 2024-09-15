@@ -1,2 +1,3 @@
-# icarus
-Blueprint for a Bare-Bones LED continuous light
+# Icarus
+
+This is the instruction kit for making the simplest of LED lights. 
