@@ -11,7 +11,7 @@ This is the instruction kit for making the simplest of LED lights. It all centre
 - 20 V USBC PD trigger
 - Thermal paste
 - Epoxy Glue
-- 1000ma Constant Current buck convertor
+- 1000mA Constant Current buck convertor
 - Toggle Switch
 
 ## Assembly
