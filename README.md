@@ -23,6 +23,8 @@ This is the instruction kit for making the simplest of LED lights. It all centre
 
 ## Results
 
+[![demo video](http://img.youtube.com/vi/nvTH3jrjlzU/0.jpg)](http://www.youtube.com/watch?v=nvTH3jrjlzU "Video Title")
+
 ## Disclaimer
 
 This light is USB powered but uses a lot of Electrical current and gets hot. If you make one, be careful. it's at your own risk. We take no responsibility for any injury.
