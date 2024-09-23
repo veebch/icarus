@@ -7,7 +7,7 @@ This is the instruction kit for making the simplest of LED lights. It all centre
 ## Components
 
 - 10cm by 10cm aluminium heat sink
-- CREE LED
+- CREE LED - XLamp® CMU2236
 - 20 V USBC PD trigger
 - Thermal paste
 - Epoxy Glue
