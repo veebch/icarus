@@ -16,11 +16,11 @@ This is the instruction kit for making the simplest of LED lights. It all centre
 
 ## Assembly
 
-- Attach LED to the centre of the heatsink using epoxy and thermal paste.
-- Print the Case and LED cover using the files in the [3d](./3d/) directory.
+- Attach LED to the centre of the heatsink using epoxy and thermal paste
+- Print the Case and LED cover using the files in the [3d](./3d/) directory
 - Place PD trigger, switch and CC power supply into case
 - Solder wires from the PD trigger to the CC buck convertor (negative wire goes via the toggle switch), then the wires go from the led in the centre of the heatsink
-- Mount the cover (in  over the LED (we used double sided tape)
+- Mount the LED cover (we used double sided tape)
 
 ## Results
 
