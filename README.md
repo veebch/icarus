@@ -4,11 +4,26 @@
 
 This is the instruction kit for making the simplest of LED lights. It all centres around a CREE XLamp® CMU2236 LED (available with [CRI](https://en.wikipedia.org/wiki/Color_rendering_index)  of 80 or 90). It is an inexpensive (~$8) and bright (~5.5Klm) LED. It is powered by USB-c and the 100cm² heatsink means that this (for now) is a silent fanless light. There's lots of room for improvement (tripod mount, active cooling, better enclosure) but we're sharing this early because we find it handy for taking photos/video (examples below).
 
+## Components
+
+- 10cm by 10cm aluminium heat sink
+- CREE LED
+- 20 V USBC PD trigger
+- Thermal paste
+- Epoxy Glue
+- 1000ma Constant Current buck convertor
+- Toggle Switch
+
 ## Assembly
 
 - Attach LED to the centre of the heatsink using epoxy and thermal paste.
 - Place PD trigger, switch and CC power supply into case
-- Solder wires as shown in the photo
-- Mount the cover over the LED (we used double sided tape)
+- Solder wires from the PD trigger to the CC buck convertor (negative wire goes via the toggle switch), then the wires go from the led in the centre of the heatsink
+- Mount the cover (in  over the LED (we used double sided tape)
 
 ## Results
+
+## Disclaimer
+
+This light is USB powered but uses a lot of Electrical current and gets hot. If you make one, be careful. it's at your own risk. We take no responsibility for any injury.
+
