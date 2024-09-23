@@ -2,24 +2,25 @@
 
 # Icarus
 
-This is the instruction kit for making the simplest of LED lights. It all centres around a CREE XLamp® CMU2236 LED (available with [CRI](https://en.wikipedia.org/wiki/Color_rendering_index)  of 80 or 90). It is an inexpensive (~$8) and bright (~5.5Klm) LED. It is powered by USB-c and the 100cm² heatsink means that this (for now) is a silent fanless light. There's lots of room for improvement (tripod mount, active cooling, better enclosure) but we're sharing this early because we find it handy for taking photos/video (examples below).
+This is the instruction kit for making the simplest of LED lights. It all centres around a CREE XLamp® CMU2236 LED (available with [CRI](https://en.wikipedia.org/wiki/Color_rendering_index)  of 80 or 90). It is an inexpensive (~$8) and bright (~5.5Klm) LED. It is powered by USB-c and the 100cm² heatsink means that the light is silent. There's lots of room for improvement (tripod mount, active cooling, better enclosure) but we're sharing this early because we find it handy for taking photos/video (example video below).
 
 ## Components
 
 - 10cm by 10cm aluminium heat sink
-- CREE LED
+- CREE LED - XLamp® CMU2236
 - 20 V USBC PD trigger
 - Thermal paste
 - Epoxy Glue
-- 1000ma Constant Current buck convertor
+- 1000mA Constant Current buck convertor
 - Toggle Switch
 
 ## Assembly
 
-- Attach LED to the centre of the heatsink using epoxy and thermal paste.
+- Attach LED to the centre of the heatsink using epoxy and thermal paste
+- Print the Case and LED cover using the files in the [3d](./3d/) directory
 - Place PD trigger, switch and CC power supply into case
 - Solder wires from the PD trigger to the CC buck convertor (negative wire goes via the toggle switch), then the wires go from the led in the centre of the heatsink
-- Mount the cover (in  over the LED (we used double sided tape)
+- Mount the LED cover (we used double sided tape)
 
 ## Results
 
