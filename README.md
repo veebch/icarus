@@ -33,5 +33,5 @@ It centres around a CREE XLamp® CMU2236 LED (available with [CRI](https://en.wi
 
 ## Disclaimer
 
-This light is USB powered but uses a lot of Electrical current and gets hot. If you make one, be careful. it's at your own risk. We take no responsibility for any injury.
+This light is USB powered but uses a lot of Electrical current and gets hot. If you make one, be careful, it's at your own risk. We take no responsibility for any injury.
 
