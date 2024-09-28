@@ -5,7 +5,7 @@
 
 # Icarus
 
-This is the description of how to make the simplest of USB-c powerd LED lights. 
+This is the description of how to make the simplest of USB-c powered LED lights. 
 
 It centres around a CREE XLamp® CMU2236 LED (available with [CRI](https://en.wikipedia.org/wiki/Color_rendering_index) of 80 or 90). The LED is inexpensive (~$8) and bright (**33W** ~5.5Klm) LED. The 100cm² heatsink means that the light is silent. There's lots of room for improvement (tripod mount, active cooling, better enclosure) but we're sharing this early because we find it handy for taking photos/video (example video below).
 
